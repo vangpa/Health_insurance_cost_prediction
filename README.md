@@ -1,4 +1,4 @@
-# Health_insurance_cost_prediction
+# Predictive analysis of health insurance cost using linear regression
 
 A medical health insurance cost prediction model using linear regression to predict the health insurance cost of a new customer person based on current health insurance information.
 
