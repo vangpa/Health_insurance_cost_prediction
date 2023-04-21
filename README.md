@@ -11,4 +11,5 @@ Usage: Python, Jupyter Notebooks
 
 Libraries: Sklearn, Pandas, Matplotlib, Seaborn
 
-![pexels-leeloo-thefirst-7163955](https://user-images.githubusercontent.com/63076021/233697720-c15db5ea-136c-45f4-8a4f-abce237f5133.jpg)
+
+![2D4DB770-10C3-4D35-AD2C-A5484264C6EB_1_201_a](https://user-images.githubusercontent.com/63076021/233698078-c3d240ef-911c-47da-a8c6-e3104d8f32d1.jpeg)
